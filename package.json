@@ -1,8 +1,5 @@
 {
   "name": "@jlehtonen/innerheight",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/jlehtonen"
-  },
   "type": "module",
   "version": "0.0.1",
   "description": "Utility package for defining a CSS variable that contains the inner height of the browser window.",
